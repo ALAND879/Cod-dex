@@ -65,5 +65,3 @@ def jugar():
 
 jugar()
 
-# Falta: Menu, sistema de juego
-# Palabras y Dibujos listos
