@@ -1,0 +1,35 @@
+🪦 Hangman  - Finished
+
+❌ Tic-Tac-Toe
+
+🚢 Battleship
+
+🔴 Connect Four
+
+🐍 Snake
+
+🏓 Pong
+
+💨 Tron
+
+💥 Breakout
+
+👾 Space Invaders
+
+🧠 2048
+
+🟩 Wordle
+
+⏰ GUI Alarm Clock
+
+➗ GUI Calculator
+
+🧱 Tetris
+
+◼️ Cards Against Humanity
+
+🦖 T-Rex Run!
+
+💣 Minesweeper
+
+🎨 Paint
