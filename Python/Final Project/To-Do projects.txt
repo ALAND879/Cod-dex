@@ -2,7 +2,7 @@
 
 ❌ Tic-Tac-Toe
 
-🚢 Battleship
+🚢 Battleship - In progress
 
 🔴 Connect Four
 

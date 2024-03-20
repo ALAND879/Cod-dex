@@ -117,6 +117,7 @@ def select_idioma():
 		else:
 			print("Select a valid option")
 
+
 def select_category(idioma):
 	a = 1
 	while a == 1:
@@ -126,6 +127,7 @@ def select_category(idioma):
 			return categoria
 		else:
 			print("Select a valid option")
+
 
 def drawing(number):
 	hangman = ['''
